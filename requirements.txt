@@ -1,0 +1,10 @@
+hdbscan
+nltk
+numpy
+pandas
+spacy
+textacy
+gmplot
+mapsplotlib
+pymprog
+sklearn
